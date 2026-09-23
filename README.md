@@ -1,5 +1,3 @@
-# mothlight-privacy
-
 <!DOCTYPE html>
 <html lang="en">
 <head>
